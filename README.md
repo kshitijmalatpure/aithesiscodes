@@ -56,19 +56,7 @@ This repository contains the full experimental stack for a thesis on **Automated
 
 ---
 
-## Environment & Installation
-
-```bash
-# (Optional) Create & activate a virtual environment
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
+## Installations
 
 **Key packages:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `joblib`, optional: `xgboost`, `imbalanced-learn`, `statsmodels`, `shap`, `language_tool_python`, `tqdm`.
 
